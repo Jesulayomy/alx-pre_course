@@ -1,3 +1,12 @@
-My first readme
+# Alx-pre_course
 
-It's the only time, they said
+### 0x01-git
+This covers the basics of using git including:
+- Account creation
+- Creating a repository
+- Git cloning
+- Git add, commit and pushing
+- Git ignore
+- Personal access tokens
+- Git brancing
+- Git merges
